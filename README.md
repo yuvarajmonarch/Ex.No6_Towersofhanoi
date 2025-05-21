@@ -1,6 +1,6 @@
 # Ex.No: 6   Logic Programming – Towers of Hanoi problem 
-### NAME : JANARTHANAN S                                                                   
-### REGISTER NUMBER : 212222040058
+### NAME : YUVARAJ B                                                                   
+### REGISTER NUMBER : 212222040186
 ### AIM: 
 To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG. 
 ### Algorithm:
